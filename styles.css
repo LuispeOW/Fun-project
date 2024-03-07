@@ -39,3 +39,11 @@ hr {
   margin:0;
   font-weight:bold;
   margin-top: 2px;
+.info {
+  width: 80%;
+  background-color: #FFFFFF;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}

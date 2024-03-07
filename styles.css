@@ -26,10 +26,16 @@ hr {
   border-style: inset;
   border-width: 1px;
 }
-.side {
+.right {
   text-align: right;
   width: 25%;
   margin-bottom:0;
   font-weight:bold;
   margin-top: 2px;
 }
+.left {
+  text-align: left;
+  width: 75%;
+  margin:0;
+  font-weight:bold;
+  margin-top: 2px;

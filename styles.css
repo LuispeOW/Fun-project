@@ -1,9 +1,19 @@
 body {
-  background-color: powderblue;
+   background-color: #FFFFFF;
+  font-family: sans-serif;
 }
 h1 {
-  color: blue;
+  font-size: 40px;
+  padding-top:0;
+  margin-top:0;
+  margin-bottom: 5px;
 }
 p {
-  color: red;
+  font-family: 'Gotham', sans-serif;
+  font-family: 'Gotham Black', sans-serif;
+  font-family: 'Gotham Light', sans-serif;
+  font-family: 'Gotham Thin', sans-serif;
+  font-family: 'Gotham XLight', sans-serif;
+  font-family: 'Gotham Book', sans-serif;
+  font-family: 'Gotham Ultra', sans-serif;
 }

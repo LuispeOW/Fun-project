@@ -47,6 +47,7 @@ hr {
 }
 .sub {
    font-weight: bold;
+   margin-bottom:0;
 }
 .desc {
    font-size: 12px;
